@@ -1,0 +1,82 @@
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\bin\Debug\FormGepek.exe.config
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\bin\Debug\FormGepek.exe
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\bin\Debug\FormGepek.pdb
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\bin\Debug\MySql.Data.dll
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\bin\Debug\MySql.Web.dll
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\bin\Debug\Google.Protobuf.dll
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\bin\Debug\MySql.Data.xml
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\bin\Debug\MySql.Web.xml
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\obj\Debug\FormGepek.csprojAssemblyReference.cache
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\obj\Debug\FormGepek.Form1.resources
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\obj\Debug\FormGepek.Properties.Resources.resources
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.GenerateResource.cache
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.CoreCompileInputs.cache
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.CopyComplete
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\obj\Debug\FormGepek.exe
+C:\Users\Marosi Márk\Source\Repos\DGV_Sajat\FormGepek\FormGepek\obj\Debug\FormGepek.pdb
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.exe.config
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.exe
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.pdb
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Data.dll
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Web.dll
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\Google.Protobuf.dll
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Data.xml
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Web.xml
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csprojAssemblyReference.cache
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.Form1.resources
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.Properties.Resources.resources
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.GenerateResource.cache
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.CoreCompileInputs.cache
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.CopyComplete
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.exe
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.pdb
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.FormModosit.resources
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.exe.config
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.exe
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.pdb
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\Google.Protobuf.dll
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Data.xml
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Web.xml
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csprojAssemblyReference.cache
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.Form1.resources
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.FormModosit.resources
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.Properties.Resources.resources
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.GenerateResource.cache
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.CoreCompileInputs.cache
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.CopyComplete
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.exe
+C:\Users\sz7marmar\source\repos\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.pdb
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.exe.config
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.exe
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.pdb
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Data.dll
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Web.dll
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\Google.Protobuf.dll
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Data.xml
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Web.xml
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csprojAssemblyReference.cache
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.Form1.resources
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.FormModosit.resources
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.Properties.Resources.resources
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.GenerateResource.cache
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.CoreCompileInputs.cache
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.CopyComplete
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.exe
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.pdb
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.exe.config
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.exe
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\FormGepek.pdb
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Data.dll
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Web.dll
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\Google.Protobuf.dll
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Data.xml
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\bin\Debug\MySql.Web.xml
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csprojAssemblyReference.cache
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.Form1.resources
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.FormModosit.resources
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.Properties.Resources.resources
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.GenerateResource.cache
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.CoreCompileInputs.cache
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.csproj.CopyComplete
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.exe
+G:\Márk\suli\OKJ\2018\GyCs\DGV_MarosiMark_CB\DGV_MarosiMark\FormGepek\FormGepek\obj\Debug\FormGepek.pdb
